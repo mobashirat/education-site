@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+
 import './App.css';
 import Services from './components/Services/Services';
 import About from './components/About/About';
@@ -13,7 +13,7 @@ function App() {
       <Router>
         <Switch>
 
-          <Route path="/">
+          <Route exact path="/">
             <Home></Home>
           </Route>
           <Route path="/about">
