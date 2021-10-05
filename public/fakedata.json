@@ -1,0 +1,78 @@
+[
+    {
+        "id": 1,
+        "name": "Learning by doing",
+        "notes": "",
+        "img": "./cardimages/doing.png"
+    },
+    {
+        "id": 2,
+        "name": "Expert Teachers",
+        "notes": "",
+        "img": "./cardimages/teacher.png"
+    },
+    {
+        "id": 3,
+        "name": "Canteen Facilities",
+        "notes": "",
+        "img": "./cardimages/canteen.png"
+    },
+    {
+        "id": 4,
+        "name": "Playground",
+        "notes": "",
+        "img": "./cardimages/playground.png"
+    },
+    {
+        "id": 5,
+        "name": "Our Classroom",
+        "notes": "",
+        "img": "./cardimages/classroom.png"
+    },
+    {
+        "id": 6,
+        "name": "Library",
+        "notes": "",
+        "img": "./cardimages/library.png"
+    },
+    {
+        "id": 7,
+        "name": "Counseiling session",
+        "notes": "",
+        "img": "./cardimages/counseilling.png"
+    },
+    {
+        "id": 8,
+        "name": "Projector-system",
+        "notes": "",
+        "img": "./cardimages/projector.png"
+    },
+    {
+        "id": 9,
+        "name": "Debate Club",
+        "notes": "",
+        "img": "./cardimages/debateclub.png",
+        "price": "$35.00"
+    },
+    {
+        "id": 10,
+        "name": "Science Club",
+        "notes": "",
+        "img": "./cardimages/scienceclub.png",
+        "price": "$55.00"
+    },
+    {
+        "id": 11,
+        "name": "Sports Club",
+        "notes": "",
+        "img": "./cardimages/sportclub.png",
+        "price": "$45.00"
+    },
+    {
+        "id": 12,
+        "name": "Programming Club",
+        "notes": "",
+        "img": "./cardimages/programming.png",
+        "price": "$60.00"
+    }
+]

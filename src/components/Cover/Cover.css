@@ -1,0 +1,27 @@
+.cover-set{
+
+    background-color: black;
+    line-height: 190px;
+   
+
+   
+}
+.text-style{
+    color:rgb(40, 148, 211);
+    font-size: 20px;
+   
+    
+}
+.cover-headings h1{
+ font-size: 30px;
+ color: white;
+ 
+}
+.title-set{
+    display: flex;
+}
+/* main-heading */
+.cover-title{
+    font-size: 50px;
+
+}
