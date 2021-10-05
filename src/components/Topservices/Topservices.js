@@ -15,6 +15,7 @@ const Topservices = () => {
             {
                 topservices.slice(8).map(topservice => <Topservice
                     topservice={topservice}
+                    key={topservice.id}
                 ></Topservice>)
             }
         </div>
