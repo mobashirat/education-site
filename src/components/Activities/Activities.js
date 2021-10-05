@@ -46,7 +46,7 @@ const Activities = () => {
                     </div>
                 </div>
             </div>
-            {/* footer-section */}
+            footer-section
             <div className="mt-3">
                 <Footer></Footer>
             </div>

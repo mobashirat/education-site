@@ -2,76 +2,76 @@
     {
         "id": 1,
         "name": "Learning by doing",
-        "notes": "",
+        "notes": "We beleive in learning by doing than memorise.So we always ensure to learn our students by practical.",
         "img": "./cardimages/doing.png"
     },
     {
         "id": 2,
         "name": "Expert Teachers",
-        "notes": "",
+        "notes": "We have awesome teachers for our students,who are friendly,helpful and hardworking",
         "img": "./cardimages/teacher.png"
     },
     {
         "id": 3,
         "name": "Canteen Facilities",
-        "notes": "",
+        "notes": "We make sure to give our students healty and tasty food in concern of their health",
         "img": "./cardimages/canteen.png"
     },
     {
         "id": 4,
         "name": "Playground",
-        "notes": "",
+        "notes": "The most favourite place of students.We arranged so many items to give them happiness",
         "img": "./cardimages/playground.png"
     },
     {
         "id": 5,
         "name": "Our Classroom",
-        "notes": "",
+        "notes": "Most important place.So we make sure to organaized our classroom well",
         "img": "./cardimages/classroom.png"
     },
     {
         "id": 6,
         "name": "Library",
-        "notes": "",
+        "notes": "We decorate our library with so many books to enhance their knowledge",
         "img": "./cardimages/library.png"
     },
     {
         "id": 7,
         "name": "Counseiling session",
-        "notes": "",
+        "notes": "We care our student's mental health.So we have counseiller to give them mental treatment.",
         "img": "./cardimages/counseilling.png"
     },
     {
         "id": 8,
         "name": "Projector-system",
-        "notes": "",
+        "notes": "We teach our students by giving them virtual vision.So that their learning can be smooth",
         "img": "./cardimages/projector.png"
     },
     {
         "id": 9,
         "name": "Debate Club",
-        "notes": "",
+        "notes": "Our Debate Club for learning communication . ",
         "img": "./cardimages/debateclub.png",
         "price": "$35.00"
     },
     {
         "id": 10,
         "name": "Science Club",
-        "notes": "",
+        "notes": "Science Club are for them who loves to create",
         "img": "./cardimages/scienceclub.png",
         "price": "$55.00"
     },
     {
         "id": 11,
         "name": "Sports Club",
-        "notes": "",
+        "notes": "Where we also care about our student's physical health",
         "img": "./cardimages/sportclub.png",
         "price": "$45.00"
     },
     {
         "id": 12,
         "name": "Programming Club",
-        "notes": "",
+        "notes": "Who loves to ceate websites this is club for them",
         "img": "./cardimages/programming.png",
         "price": "$60.00"
     }

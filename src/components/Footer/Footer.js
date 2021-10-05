@@ -29,10 +29,10 @@ const Footer = () => {
 
                 <div className="col-md-4 ps-4 social-icon">
 
-                    <i class="fab fa-facebook"></i>
-                    <i class="fab fa-instagram"></i>
-                    <i class="fab fa-linkedin"></i>
-                    <i class="fab fa-twitter-square"></i>
+                    <i className="fab fa-facebook"></i>
+                    <i className="fab fa-instagram"></i>
+                    <i className="fab fa-linkedin"></i>
+                    <i className="fab fa-twitter-square"></i>
                     <br />
 
                 </div>
