@@ -1,5 +1,5 @@
 # Learn With Fun
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://priceless-swirles-0cb61b.netlify.app/home).
 
 ## Available Scripts
 

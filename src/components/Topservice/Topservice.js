@@ -12,6 +12,7 @@ const Topservice = (props) => {
                         <div class="card-body">
                             <h5 class="card-title">{name}</h5>
                             <p class="card-text fs-3">{price}</p>
+
                             <button className="bg-info rounded-3">Enroll now</button>
                         </div>
                     </div>
