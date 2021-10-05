@@ -1,10 +1,13 @@
-# Getting Started with Create React App
-
+# Learn With Fun
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
-In the project directory, you can run:
+In the project directory, you can: 
+• visit our services where we show our services to you
+• will get to know what matters for us and our goals
+• will get to know our innovative ideas for learning
+• Will get ideas about our activities
 
 ### `npm start`
 
